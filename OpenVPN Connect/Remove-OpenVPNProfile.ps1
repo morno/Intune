@@ -2,7 +2,7 @@
 $openVpnConnectExecutable = "C:\Program Files\OpenVPN Connect\openvpnconnect.exe"
 
 # Specify the VPN profile name to remove
-$vpnProfileToRemove = "BohusVPN"
+$vpnProfileToRemove = "OpenVPN"
 
 # Specify the path for the success indicator file
 $successFilePath = "C:\temp\OpenVpn-SuccessIndicator.txt"
