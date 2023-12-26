@@ -5,7 +5,7 @@ $openVpnConnectExecutable = "C:\Program Files\OpenVPN Connect\openvpnconnect.exe
 $profileFilePath = "$PSScriptRoot\Config.ovpn"
 
 # Name the connection profile
-$vpnname = "BohusVPN"
+$vpnname = "OpenVPN"
 
 # Specify the path for the error log
 $errorLogPath = "C:\temp\OpenVpn-ErrorLog.txt"
